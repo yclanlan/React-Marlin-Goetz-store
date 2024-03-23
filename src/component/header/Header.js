@@ -37,7 +37,7 @@ function Header() {
         <SearchIcon className="header__searchIcon" />
       </div>
 
-      <div className="header__category">
+      {/* <div className="header__category">
       <Link to='/order'>
           <div className="header__option">
         
@@ -65,7 +65,7 @@ function Header() {
             <span >candles</span>
           </div>
       </Link>
-      </div>
+      </div> */}
 
 
 
