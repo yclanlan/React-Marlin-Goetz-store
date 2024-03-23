@@ -4,10 +4,6 @@ The project includes features such as checkout, payment integration, user authen
 The clone has been deployed on Firebase hosting. <br/><br/>
 
 
-## Acknowledgements
-This project was built as a learning exercise and was inspired by MalinGoetz. 
-Special thanks to the developers @CleverProgrammers
-
 
 To get started, follow these steps to set up your testing account:
 
@@ -38,6 +34,10 @@ Thank you for your interest in our project! Happy testing!
 * Login and Logout functionality using Firebase Authentication.
 * Add products to the cart and remove them.
 * Secure payment processing with Stripe API integration.
-* Neat and clean user interface inspired by Amazon...
+* Neat and clean user interface inspired by MalinGoetz...
+
+## Acknowledgements
+This project was built as a learning exercise and was inspired by MalinGoetz. 
+Special thanks to the developers @CleverProgrammers
 
 
