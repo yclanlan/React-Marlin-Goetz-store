@@ -5,7 +5,7 @@ The clone has been deployed on Firebase hosting. <br/><br/>
 
 ![malingoetz testing](https://github.com/yclanlan/marlin-goetz-store/assets/97862198/80adac0f-ae49-4e5d-be9f-2e403b5313ec)
 
-## link: https://malin-goetz.yichunlan.com/<br/><br/><br/><br/>
+## link: https://malin-goetz.yichunlan.com/<br/><br/><br/>
 
 
 To get started, follow these steps to set up your testing account:
@@ -22,7 +22,7 @@ Click on "Sign Up." and follow the on-screen instructions to create your account
 
 Thank you for your interest in our project! Happy testing!
 
-
+<br/><br/>
 ## Technologies Used
 * React.js
 * Express.js
@@ -31,13 +31,13 @@ Thank you for your interest in our project! Happy testing!
 * Firebase Storage
 * React-Dom
 * Stripe API...
-
+<br/><br/>
 ## Features
 * Login and Logout functionality using Firebase Authentication.
 * Add products to the cart and remove them.
 * Secure payment processing with Stripe API integration.
 * Neat and clean user interface inspired by MalinGoetz...
-
+<br/><br/>
 ## Acknowledgements
 This project was built as a learning exercise and was inspired by MalinGoetz. 
 Special thanks to the developers @CleverProgrammers
