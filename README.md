@@ -10,10 +10,10 @@ The clone has been deployed on Firebase hosting. <br/><br/>
 
 To get started, follow these steps to set up your testing account:
 
-## Option 1: Create Your Own Testing Account
+### Option 1: Create Your Own Testing Account
 
 Click on "Sign Up." and follow the on-screen instructions to create your account with a unique email and secure password. <br/><br/>
-## Option 2: Use the Shared Testing Account 
+### Option 2: Use the Shared Testing Account 
 
 * Account: testtest@gmail.com <br/>
 * Password: 123456
