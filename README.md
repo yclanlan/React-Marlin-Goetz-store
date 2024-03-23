@@ -3,6 +3,7 @@ This is a full-stack Malin+Goetz Clone developed using React.js, Express.js, Fir
 The project includes features such as checkout, payment integration, user authentication, and real-time database functionality. 
 The clone has been deployed on Firebase hosting. <br/><br/>
 
+![malingoetz testing](https://github.com/yclanlan/marlin-goetz-store/assets/97862198/80adac0f-ae49-4e5d-be9f-2e403b5313ec)
 
 
 To get started, follow these steps to set up your testing account:
